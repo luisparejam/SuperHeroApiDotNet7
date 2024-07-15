@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using SuperHeroApiDotNet7.Models;
+﻿using Microsoft.AspNetCore.Mvc;
 using SuperHeroApiDotNet7.Services.SuperHeroService;
 
 namespace SuperHeroApiDotNet7.Controllers
